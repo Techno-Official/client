@@ -10356,7 +10356,7 @@ button.owl-next {
   -ms-transition: 0.3s ease-in; }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/mindpowertwo.png) no-repeat center;
   background-size: cover;
   min-height: 700px;
   position: relative;
@@ -10365,15 +10365,15 @@ button.owl-next {
   align-items: center; }
 
 .w3l-main-slider .banner-top1 {
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(../images/mindpowerone.png) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-top2 {
-  background: url(../images/banner3.jpg) no-repeat center;
+  background: url(../images/mindpowertwo.png) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-top3 {
-  background: url(../images/banner4.jpg) no-repeat center;
+  background: url(../images/mindpowertwo.png) no-repeat center;
   background-size: cover; }
 
 .w3l-main-slider .banner-view:before {
