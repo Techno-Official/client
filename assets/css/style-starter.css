@@ -11315,7 +11315,7 @@ p.stats-text {
 
 .w3l-about-breadcrumb .breadcrumb-bg-about {
   background-size: cover;
-  background-image: linear-gradient(to right, #17449e, rgba(26, 35, 129, 0.6)), url(../images/breadcrumbbg.jpg);
+  background-image: linear-gradient(to right, #17449e, rgba(26, 35, 129, 0.6)), url(../images/info.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed; }
